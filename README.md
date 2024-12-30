@@ -76,6 +76,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)  [`CVPR 2024`]
 - [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/pdf/2405.04390) [`CVPR 2024`]
 - [NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://arxiv.org/abs/2106.11810)[`arxiv 2023`, [Github](https://github.com/motional/nuplan-devkit)]
+- [Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner](https://ezharjan.github.io/AutoSceneGen/)[`AAAI 2025`, [Project](https://ezharjan.github.io/AutoSceneGen/)]
 - [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf) [`arxiv 2023`, [Project](https://drivingdiffusion.github.io/)]
 - [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) [`arxiv 2023`, [Project](https://github.com/wzzheng/OccWorld)]
 - [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf) [`arxiv 2023`]
